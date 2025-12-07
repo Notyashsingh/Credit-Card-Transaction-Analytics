@@ -51,7 +51,7 @@ Fact: transactions
 - **Avg revenue/customer**: $92.8K
 - **VIP segment**: Top customers contribute **$275K–$296K** each
 
-![Customer Recency Distribution]([Visualization/Customer Recency Distribution.png](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Customer%20Recency%20Distribution.png?raw=true)
+![Customer Recency Distribution](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Customer%20Recency%20Distribution.png?raw=true)
 
 *Figure 1: Customer Recency Distribution*
 
@@ -59,7 +59,7 @@ Fact: transactions
 - **693 merchants**; **Top 10** generate **$295K–$391K** each 
 - **Pareto pattern**: <2% merchants drive majority of revenue 
 
-![Merchant Revenue]([Visualization/Pareto - Top 20 Merchants by Revenue.png](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Pareto%20-%20Top%2020%20Merchants%20by%20Revenue.png?raw=true)
+![Merchant Revenue](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Pareto%20-%20Top%2020%20Merchants%20by%20Revenue.png?raw=true)
 
 *Figure 2: Top 20 Merchants Revenue Distribution*
 
