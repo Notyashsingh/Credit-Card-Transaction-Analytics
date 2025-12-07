@@ -112,17 +112,14 @@ Fact: transactions
 ```
 📁 credit-card-analytics/
 ├── 📁 data/
-│   ├── 📁 raw/           # Transaction CSVs
-│   └── 📁 processed/     # Cleaned data
+│   ├── 📁 raw/                   # Transaction CSVs
+│   └── 📁 processed/             # Cleaned data
 ├── 📁 sql/
-│   ├── 📁 schema/        # DDL scripts
-│   ├── 📁 exploration/   # EDA queries
-│   └── 📁 analysis/      # Final analytics
-├── 📁 notebooks/         # Python EDA
+│   ├── 📁 Queries/               # DDL scripts, EDA queries, Final analytics
+├── 📁 notebooks/                 # Python EDA
 ├── 📁 visualaizations/           # Charts for README
 ├── 📁 reports/
 │   └── Credit-Card-Analytics-Case-Study.pdf
-├── 🐳 docker-compose.yml
 ├── 🐘 init.sql
 └── 📄 README.md
 ```
