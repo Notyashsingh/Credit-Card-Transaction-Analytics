@@ -1,4 +1,4 @@
-<img width="786" height="581" alt="image" src="https://github.com/user-attachments/assets/0847e0d0-1128-4c26-88cc-9d64102ea2bb" /># 💳 Credit Card Transaction Analytics – SQL Case Study
+## 💳 Credit Card Transaction Analytics – SQL Case Study
 
 [![GitHub stars](https://img.shields.io/github/stars/USER/repo.svg?style=social)](https://github.com/notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study
 /stargazers/)
