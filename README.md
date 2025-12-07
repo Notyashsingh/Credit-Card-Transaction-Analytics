@@ -1,4 +1,4 @@
-# 💳 Credit Card Transaction Analytics – SQL Case Study
+<img width="786" height="581" alt="image" src="https://github.com/user-attachments/assets/0847e0d0-1128-4c26-88cc-9d64102ea2bb" /># 💳 Credit Card Transaction Analytics – SQL Case Study
 
 [![GitHub stars](https://img.shields.io/github/stars/USER/repo.svg?style=social)](https://github.com/notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study
 /stargazers/)
@@ -59,7 +59,7 @@ Fact: transactions
 - **VIP segment**: Top customers contribute **$275K–$296K** each
 
 ```
-![Customer Recency Distribution](Visualization/Customer Recency Distribution.png)
+![Customer Recency Distribution]([Visualization/Customer Recency Distribution.png](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Customer%20Recency%20Distribution.png?raw=true)
 ```
 
 ### 🏪 2️⃣ Merchant Performance
@@ -67,7 +67,7 @@ Fact: transactions
 - **Pareto pattern**: <2% merchants drive majority of revenue 
 
 ```
-![Merchant Revenue](Visualization/Pareto - Top 20 Merchants by Revenue.png)
+![Merchant Revenue]([Visualization/Pareto - Top 20 Merchants by Revenue.png](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Pareto%20-%20Top%2020%20Merchants%20by%20Revenue.png?raw=true)
 
 *Figure 2: Top 20 Merchants Revenue Distribution*
 ```
@@ -81,7 +81,7 @@ Fact: transactions
 | Gas/Transport | **9.16%** | Low |
 
 ```
-![Category Revenue](Visualization/Category-wise Revenue Share.png)
+![Category Revenue](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Category-wise%20Revenue%20Share.png?raw=true)
 
 *Figure 3: Category Revenue Share*
 ```
@@ -91,7 +91,7 @@ Fact: transactions
 - **Hotspots**: Late-night transactions, online channels, select merchants (2-2.57%)
 
 ```
-![Fraud Trends](Fraud Rate Over Time.png)
+![Fraud Trends](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/Fraud%20Rate%20Over%20Time.png?raw=true)
 
 *Figure 4: Fraud Rate Over Time*
 ```
@@ -102,7 +102,7 @@ Fact: transactions
 - **Q2 recovery**: **$14.04M**
 
 ```
-![Revenue Trends](Visualization/M-O-M Growth.png)
+![Revenue Trends](https://github.com/Notyashsingh/Credit-Card-Transaction-Analytics---Enterprise-Case-Study/blob/main/Visualizations/M-O-M%20Growth.png?raw=true)
 
 *Figure 5: Month-Over-Month Revenue*
 ```
